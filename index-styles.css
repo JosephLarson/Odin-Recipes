@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+.background-top { 
+    background-image: url(./images/variety_header.jpg);
+    background-size: cover; height: 480px; padding-top: 80px;
+}
+
+.top-center {
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-weight: bolder;
+}
+ul {
+    color:white;
+}
+a:link {
+    color:white;
+}
+a:hover {
+    color:pink;
+}
+a:visited {
+    color:red;
+}
